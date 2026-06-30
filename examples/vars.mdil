@@ -1,0 +1,4 @@
+dəyişən x = 50
+dəyişən y = 20
+topla x y
+bitir rax

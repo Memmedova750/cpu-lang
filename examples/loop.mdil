@@ -1,0 +1,10 @@
+qoy rax 0
+qoy rcx 5
+
+etiket DÖNGÜ
+artir rax 10
+azalt rcx 1
+müqayisə rcx 0
+böyükdürsə_atıl DÖNGÜ
+
+bitir rax

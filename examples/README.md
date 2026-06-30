@@ -13,3 +13,15 @@ This project is part of my journey to understand the deep internals of computer 
 
 ## How to Run
 `python3 src/compiler.py examples/vars.mdil`
+Designed and implemented a modular programming language targeting x86-64 Linux.
+
+Features include:
+
+• Recursive Descent Parser
+• Abstract Syntax Tree (AST)
+• Operator Precedence Parsing
+• Symbol Table
+• x86-64 Assembly Code Generation
+• Linux Syscall Interface
+• Stack-based Expression Evaluation
+• Automated Build Pipeline

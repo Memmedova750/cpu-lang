@@ -1,0 +1,7 @@
+func greet
+    print "HELLO_FROM_MY_FUNCTION"
+end
+
+call greet
+call greet
+exit 0

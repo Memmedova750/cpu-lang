@@ -1,0 +1,6 @@
+func my_math_logic
+    add rdi rsi
+    exit rdi
+end
+
+call my_math_logic 10 20

@@ -1,0 +1,5 @@
+print WHAT_IS_YOUR_NAME?
+read username
+print HELLO
+print username
+exit 0
